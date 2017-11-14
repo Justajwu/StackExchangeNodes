@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "require(XML)\nrequire(xml2)\n\nfilepath = \"./DataScience StackExchange/Users.xml\"\nxml_data = xmlToList(filepath)\n\n\nt = read_xml(filepath)",
+    "created" : 1510614532400.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2001420146",
+    "id" : "997252FD",
+    "lastKnownWriteTime" : 1510694506,
+    "last_content_update" : 1510694506828,
+    "path" : "~/NYU Coursework/Statistical Analysis of Networks_Fall17/Stack Exchange Project/Code.R",
+    "project_path" : "Code.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
